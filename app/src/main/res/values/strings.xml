@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Calculadora</string>.
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="b0">0</string>
+    <string name="bA">A</string>
+    <string name="bB">B</string>
+    <string name="bC">C</string>
+    <string name="bD">D</string>
+    <string name="bE">E</string>
+    <string name="bF">F</string>
+    <string name="b_mul">*</string>
+    <string name="b_sum">+</string>
+    <string name="b_res">-</string>
+    <string name="b_div">/</string>
+    <string name="b_ig">=</string>
+    <string name="b_del">DEL</string>
+    <string name="b_C">C</string>
+    <string name="b_punto">.</string>
+    <string name="b_decimal">HEX</string>
+    <string name="b_binario">BIN</string>
+    <string name="txt_res">Res</string>
+    <string name="txt_historial">Historial</string>
+    <string name="b_dec">DEC</string>
+
+
+
+
+
+
+
+</resources>
